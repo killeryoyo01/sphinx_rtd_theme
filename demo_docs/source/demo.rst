@@ -80,26 +80,26 @@ console.log(player.name + " join.");
 
 Example:
 
-.. codeblock:: javascript
 
-function playerQuitHandler(player, exitType, reason) {
+.. [1]function playerQuitHandler(player, exitType, reason) {
  
- if (exitType != "kicked") {
+.. [2]if (exitType != "kicked") {
    
-   var str = player.name + " quit.";
+.. [3]var str = player.name + " quit.";
  
- } else {
+.. [4] } else {
   
-  var str = player.name + " kicked. Reason: " + reason + ".";
+.. [5] var str = player.name + " kicked. Reason: " + reason + ".";
 
-}
+.. [6]}
 
-console.log(str);
+.. [7]console.log(str);
 
-}
+.. [8] }
 
-mp.events.add("playerQuit", playerQuitHandler);
+.. [9] mp.events.add("playerQuit", playerQuitHandler);
 
+.. [10]
      
 ---------
 

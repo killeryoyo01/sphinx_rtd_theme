@@ -49,23 +49,16 @@ PlayerJoin
 
 ---------
 
-.. code-block:: js
-{
-function playerJoinHandler(player) {
-console.log(player.name + " join.");
- }
- }
-
 **Example**
 
-- This Will create a
-This Example will make the console log every Player Joins the Server.::
+.. sidebar:: Example Description
 
-mp.events.add("playerJoin", playerJoinHandler);
+    The Console will log every player when he joins the server.
 
-function playerJoinHandler(player) {
-console.log(player.name + " join.");
- }
+.. literalinclude:: test_py_module/PlayerJoin.js
+    :language: javascript
+    :linenos:
+    :lines: 1-10
  
 ---------
 

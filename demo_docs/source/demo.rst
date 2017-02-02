@@ -40,16 +40,15 @@ PlayerJoin
 
 ---------
 
-|**Example**:
+**Example**
 
+- This Will create a
 This Example will make the console log every Player Joins the Server.::
 
 mp.events.add("playerJoin", playerJoinHandler);
 
 function playerJoinHandler(player) {
-
 console.log(player.name + " join.");
-
  }
  
  1. Create some kind of table outline, separating column with two or more spaces::

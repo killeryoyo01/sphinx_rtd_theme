@@ -42,7 +42,7 @@ PlayerJoin
 
 |**Example**:
 
-.codeblock:: javascript
+.. codeblock:: javascript
 
 mp.events.add("playerJoin", playerJoinHandler);
 
@@ -80,7 +80,7 @@ console.log(player.name + " join.");
 
 Example:
 
-.codeblock:: javascript
+.. codeblock:: javascript
 
 function playerQuitHandler(player, exitType, reason) {
  

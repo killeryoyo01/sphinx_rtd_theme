@@ -15,22 +15,12 @@
 
 
 
-A list
+Client Side Scripting
 ======
 
-- here
-  - is
-  - some
-    - list
-    - items
-    - `yahoo <http://www.yahoo.com>`_
-    - ``huh``
-- how
-- ``inline literall``
-- ``inline literall``
-- ``inline literall``
+- 
 
-Second list level
+Client-Side Events
 -----------------
 
 - here is a list in a second-level section.

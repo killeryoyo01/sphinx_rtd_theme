@@ -29,9 +29,9 @@ Player Events
 
 PlayerJoin
 -------------
-:Description: This event is triggered when a player joins the server.
+**Description** This event is triggered when a player joins the server.
 
-:Paramters:
+**Paramters**
 -player player, which joined to the server.
 ---------
 Example:
@@ -45,15 +45,15 @@ function playerJoinHandler(player) {
 
 PlayerQuit
 -------------
-:Description: This event is triggered when a player leaves/disconnects the server.
+**Description** This event is triggered when a player leaves/disconnects the server.
 
-:Paramters:
--:player: it is the player which left to the server.
--:exitType:  Types of Exit:
-1) **disconnect**
-2) **timeout**
-3) **kicked**
--:reason: The reason why the player disconnected/left.
+**Paramters**
+-player: it is the player which left to the server.
+-exitType:  Types of Exit:
+-**disconnect**
+-**timeout**
+-**kicked**
+-reason The reason why the player disconnected/left.
 
 ---------
 Example:

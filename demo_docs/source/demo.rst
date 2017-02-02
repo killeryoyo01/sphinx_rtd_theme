@@ -19,6 +19,10 @@ If you wish to learn more about Node Javascript, You can press up the link Down:
 
 .. warning:: This Page is still Under Construction. You might Find some Missing Details.
 
+.. bibliographic fields (which also require a transform):
+.. contents:: Events
+.. section-numbering::
+
 --------------------------------
  Server-Side Events
 --------------------------------
@@ -26,10 +30,6 @@ If you wish to learn more about Node Javascript, You can press up the link Down:
 Enjoy Our plethora of events that will benefit you a lot while scripting your server.
 
 List of Server-Side events:
-
-.. bibliographic fields (which also require a transform):
-.. contents:: Events
-.. section-numbering::
 
 
 Player Events
@@ -72,9 +72,9 @@ PlayerJoin
 
 **Paramters**:
 
-- `player`: it is the player which left to the server.
+- ``player``: it is the player which left to the server.
 
--  `exitType`:  Types of Exit:
+-  ``exitType``:  Types of Exit:
 
 -  **disconnect**
 
@@ -109,9 +109,9 @@ Example:
 
 **Paramters**:
 
-- `player`: it is the player which talks in the chat
+- ``player``: it is the player which talks in the chat
 
--  `text`:  the text he typed on the Chat
+-  ``text``:  the text he typed on the Chat
 
 ---------
 
@@ -119,7 +119,7 @@ Example:
 
 .. sidebar:: Example Description
 
-    Whenever the Player Talks it displays his name + the Word sad. For example "Alexander" Said: Hello.
+    Whenever the Player Talks it displays his name + the Word sad. For example "Alexander" Says: Hello.
 
 .. literalinclude:: test_py_module/PlayerChat.js
     :language: javascript
@@ -138,11 +138,11 @@ Example:
 
 **Paramters**:
 
-- `player`: it is the player that is dead.
+- ``player``: it is the player that is dead.
 
-- `reason`:  the reason why he Died.
+- ``reason``:  the reason why he Died.
 
-- `killer`: The player name who killed the victim
+- ``killer``: The player name who killed the victim
 
 ---------
 
@@ -173,15 +173,15 @@ Vector 3 Functions
 
 **Description**:
 
-This Function Creates a Vector Object which has a float values of `x`, `y`, and `z`
+This Function Creates a Vector Object which has a float values of ``x``, ``y``, and ``z``
 
 **Properties**:
 
-- Vector3:x
+- ``Vector3:x``
 
-- Vector3:y
+- ``Vector3:y``
 
-- Vector3:z
+- ``Vector3:z``
 
 ---------
 
@@ -211,7 +211,7 @@ This function registers event handlers. It could handle more than one Server-sid
 
 **Syntax**: 
 
-`events.add(associativeArray)`
+``events.add(associativeArray)``
 
 ---------
 
@@ -237,7 +237,7 @@ This function calls registered event handlers.
 
 **Syntax**:
 
-`events.call(eventName, optionalArguments);`
+``events.call(eventName, optionalArguments);``
 
 ---------
 
@@ -268,7 +268,7 @@ This Function spawns the player in a specific Place.
 
 **Syntax**:
 
-`player.spawn(Vector3 position);`
+``player.spawn(Vector3 position);``
 
 ---------
 
@@ -294,7 +294,7 @@ This Function writes in the Chatbox to the player
 
 **Syntax**:
 
-`player.outputChatBox(String reason);`
+``player.outputChatBox(String reason);``
 
 -------
 

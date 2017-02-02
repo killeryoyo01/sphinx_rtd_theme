@@ -20,7 +20,7 @@ If you wish to learn more about Node Javascript, You can press up the link Down:
 .. warning:: This Page is still Under Construction. You might Find some Missing Details.
 
 .. bibliographic fields (which also require a transform):
-.. contents:: Events
+.. contents:: Contents:
 .. section-numbering::
 
 --------------------------------

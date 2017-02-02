@@ -4,11 +4,15 @@
    contain the root `toctree` directive.
 
 =================================================
-Demo Docs
+Rage Multiplayer API Documentation.
 =================================================
 
-:Page Status: Incomplete
-:Last Reviewed: 2013-10-29
+:Page Status: Under Construction.
+.. note:: This is still a Pre-Alpha Document.
+
+.. warning::
+This Page is still Under Construction. You might Find some Missing Details.
+
 
 Contents:
 

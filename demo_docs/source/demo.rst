@@ -40,13 +40,13 @@ PlayerJoin
 
 ---------
 
-**Example**:
-```js
-mp.events.add("playerJoin", playerJoinHandler);
-function playerJoinHandler(player) {
-    console.log(player.name + " join.");
-  }
-```
+|**Example**:
+|```js
+|mp.events.add("playerJoin", playerJoinHandler);
+|function playerJoinHandler(player) {
+|    console.log(player.name + " join.");
+| }
+|```
   
 ---------
 
@@ -74,18 +74,18 @@ function playerJoinHandler(player) {
 
 ---------
 
-Example:
-```js
-function playerQuitHandler(player, exitType, reason) {
-  if (exitType != "kicked") {
-    var str = player.name + " quit.";
-  } else {
-    var str = player.name + " kicked. Reason: " + reason + ".";
-  }
-  console.log(str);
-}
-mp.events.add("playerQuit", playerQuitHandler);
-```
+|Example:
+|```js
+|function playerQuitHandler(player, exitType, reason) {
+|  if (exitType != "kicked") {
+|    var str = player.name + " quit.";
+|  } else {
+|    var str = player.name + " kicked. Reason: " + reason + ".";
+|  }
+|  console.log(str);
+|}
+|mp.events.add("playerQuit", playerQuitHandler);
+|```
      
 ---------
 

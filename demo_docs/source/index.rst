@@ -2,6 +2,8 @@
    sphinx-quickstart on Sun Nov  3 11:56:36 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+.. warning::
+This Page is still Under Construction. You might Find some Missing Details.
 
 =================================================
 Rage Multiplayer API Documentation.
@@ -9,9 +11,6 @@ Rage Multiplayer API Documentation.
 
 :Page Status: Under Construction.
 .. note:: This is still a Pre-Alpha Document.
-
-.. warning::
-This Page is still Under Construction. You might Find some Missing Details.
 
 
 Contents:

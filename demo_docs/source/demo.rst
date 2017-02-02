@@ -57,7 +57,8 @@ PlayerQuit
 
 ---------
 Example:
-.. code:: javascript 
+.. literalinclude:: 
+          :lines: 1-10 
 function playerQuitHandler(player, exitType, reason) {
   if (exitType != "kicked") {
     var str = player.name + " quit.";
@@ -67,7 +68,10 @@ function playerQuitHandler(player, exitType, reason) {
   console.log(str);
 }
 mp.events.add("playerQuit", playerQuitHandler);
-  
+
+          :language: javascript
+          :linenos:
+          :lines: 1-10 
 ---------
 
 test

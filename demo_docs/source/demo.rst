@@ -40,28 +40,12 @@ PlayerJoin
 
 ---------
 
-.. code-block:: json
+.. code-block:: js
 
-    {
-    "windows": [
-        {
-        "panes": [
-            {
-            "shell_command": [
-                "echo 'did you know'",
-                "echo 'you can inline'"
-            ]
-            },
-            {
-            "shell_command": "echo 'single commands'"
-            },
-            "echo 'for panes'"
-        ],
-        "window_name": "long form"
-        }
-    ],
-    "session_name": "shorthands"
-    }
+function playerJoinHandler(player) {
+console.log(player.name + " join.");
+ }
+ mp.events.add("playerJoin", playerJoinHandler);
 
 **Example**
 
@@ -74,17 +58,6 @@ function playerJoinHandler(player) {
 console.log(player.name + " join.");
  }
  
- 1. Create some kind of table outline, separating column with two or more spaces::
-
-
-      This is paragraph text *before* the table.
-
-      Column 1  Column 2
-      Foo  Put two (or more) spaces as a field separator.
-      Bar  Even very very long lines like these are fine, as long as you do not put in line endings here.
-
-      This is paragraph text *after* the table.
-
 ---------
 
 `PlayerQuit`

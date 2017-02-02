@@ -40,6 +40,29 @@ PlayerJoin
 
 ---------
 
+.. code-block:: json
+
+    {
+    "windows": [
+        {
+        "panes": [
+            {
+            "shell_command": [
+                "echo 'did you know'",
+                "echo 'you can inline'"
+            ]
+            },
+            {
+            "shell_command": "echo 'single commands'"
+            },
+            "echo 'for panes'"
+        ],
+        "window_name": "long form"
+        }
+    ],
+    "session_name": "shorthands"
+    }
+
 **Example**
 
 - This Will create a

@@ -29,36 +29,53 @@ Player Events
 
 PlayerJoin
 -------------
-**Description** This event is triggered when a player joins the server.
+**Description**: 
+
+- This event is triggered when a player joins the server.
+
+-------------
 
 **Paramters**
--player player, which joined to the server.
+- player player, which joined to the server.
+
 ---------
-Example:
-.. code:: javascript 
+
+**Example**:
+```js
 mp.events.add("playerJoin", playerJoinHandler);
 function playerJoinHandler(player) {
     console.log(player.name + " join.");
   }
+```
   
 ---------
 
-PlayerQuit
+`PlayerQuit`
 -------------
-**Description** This event is triggered when a player leaves/disconnects the server.
+**Description** 
 
-**Paramters**
--player: it is the player which left to the server.
--exitType:  Types of Exit:
--**disconnect**
--**timeout**
--**kicked**
--reason The reason why the player disconnected/left.
+- This event is triggered when a player leaves/disconnects the server.
 
 ---------
+
+**Paramters**:
+
+- `player`: it is the player which left to the server.
+
+-  `exitType`:  Types of Exit:
+
+-  **disconnect**
+
+-  **timeout**
+
+-  **kicked**
+
+- `reason` The reason why the player disconnected/left.
+
+---------
+
 Example:
-.. literalinclude:: 
-          :lines: 1-10 
+```js
 function playerQuitHandler(player, exitType, reason) {
   if (exitType != "kicked") {
     var str = player.name + " quit.";
@@ -68,10 +85,8 @@ function playerQuitHandler(player, exitType, reason) {
   console.log(str);
 }
 mp.events.add("playerQuit", playerQuitHandler);
-
-          :language: javascript
-          :linenos:
-          :lines: 1-10 
+```
+     
 ---------
 
 test

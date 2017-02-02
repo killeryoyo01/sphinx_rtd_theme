@@ -41,7 +41,7 @@ mathjax_path = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-source_suffix = '.md'
+source_suffix = '.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'

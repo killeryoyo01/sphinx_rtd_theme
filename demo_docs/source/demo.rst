@@ -42,7 +42,7 @@ PlayerJoin
 
 |**Example**:
 
-.. codeblock:: javascript
+This Example will make the console log every Player Joins the Server.::
 
 mp.events.add("playerJoin", playerJoinHandler);
 

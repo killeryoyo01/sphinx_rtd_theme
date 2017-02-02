@@ -11,6 +11,9 @@ Rage Multiplayer API Documentation.
 :Page Status: Under Construction.
 .. note:: This is still a Pre-Alpha Document.
 
+.. code-block:: js function playerJoinHandler(player) {
+console.log(player.name + " join.");
+ }
 
 Contents:
 

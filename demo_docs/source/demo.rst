@@ -5,9 +5,14 @@
 Server Side scripting
 ================================
 
-.. code-block:: js function playerJoinHandler(player) {
-console.log(player.name + " join.");
- }
+.. sidebar:: Example Description
+
+    The Console will log every player when he joins the server.
+
+.. literalinclude:: test_py_module/PlayerJoin.js
+    :language: javascript
+    :linenos:
+    :lines: 1-10
  
 You can Find here Various Types of Functions/Events of Rage Multiplayer API that will let you script in your Great Server.
 Server side scripting Allows you to create your own Server without Limitation. You are the key for the Limitation.

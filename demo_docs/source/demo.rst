@@ -88,26 +88,74 @@ PlayerJoin
 
 Example:
 
+.. sidebar:: Example Description
 
-.. [1]function playerQuitHandler(player, exitType, reason) {
- 
-.. [2]if (exitType != "kicked") {
-   
-.. [3]var str = player.name + " quit.";
- 
-.. [4] } else {
-  
-.. [5] var str = player.name + " kicked. Reason: " + reason + ".";
+    Whenever the Player disconnects or quit. The Server will announce the Reason why he left.
 
-.. [6]}
+.. literalinclude:: test_py_module/PlayerQuit.js
+    :language: javascript
+    :linenos:
+    :lines: 1-10
+     
+---------
 
-.. [7]console.log(str);
+`PlayerChat`
+-------------
+**Description** 
 
-.. [8] }
+- This event is triggered when a player is chatting on  the server.
 
-.. [9] mp.events.add("playerQuit", playerQuitHandler);
+---------
 
-.. [10]
+**Paramters**:
+
+- `player`: it is the player which talks in the chat
+
+-  `text`:  the text he typed on the Chat
+
+---------
+
+Example:
+
+.. sidebar:: Example Description
+
+    Whenever the Player Talks it displays his name + the Word sad. For example "Alexander" Said: Hello.
+
+.. literalinclude:: test_py_module/PlayerChat.js
+    :language: javascript
+    :linenos:
+    :lines: 1-10
+     
+---------
+
+`PlayerDeath`
+-------------
+**Description** 
+
+- This event is triggered when a player died.
+
+---------
+
+**Paramters**:
+
+- `player`: it is the player that is dead.
+
+- `reason`:  the reason why he Died.
+
+- `killer`: The player name who killed the victim
+
+---------
+
+Example:
+
+.. sidebar:: Example Description
+
+    Whenever the Player Dies. it displays a kill message, and makes you spawn in the specified Coords.
+
+.. literalinclude:: test_py_module/PlayerDeath.js
+    :language: javascript
+    :linenos:
+    :lines: 1-10
      
 ---------
 

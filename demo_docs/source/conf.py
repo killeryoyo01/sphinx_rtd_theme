@@ -50,8 +50,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Sphinx RTD theme demo'
-copyright = u'2013, Dave Snider'
+project = u'Rage MP Docs'
+copyright = u'2016, Rage Multiplayer'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

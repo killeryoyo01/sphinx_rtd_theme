@@ -202,7 +202,7 @@ This Function Creates a Vector Object which has a float values of ``x``, ``y``, 
     
     
 Event functions
-------------
+-----------
 
 events.add
 ^^^^^^^^^^^^
@@ -231,7 +231,7 @@ This function registers event handlers. It could handle more than one Server-sid
 ---------    
 
 events.call
-^^^^^^^^^^^^
+-----------
 
 **Description**:
 
@@ -257,12 +257,12 @@ This function calls registered event handlers.
 ---------    
 
 Player functions
-------------
+-----------
 
 - **Functions**:
 
 Player.spawn
-^^^^^^^^^
+-----------
 
 **Description**: 
 
@@ -288,7 +288,7 @@ This Function spawns the player in a specific Place.
 ---------    
 
 Player.outputChatBox
-^^^^^^^^^
+-----------
 
 **Description**:
 

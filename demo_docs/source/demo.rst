@@ -467,6 +467,20 @@ This function set prop for a player.
     :linenos:
     :lines: 1-30
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     **Example for** ``setProp`` :
 
 .. sidebar:: Example Description

@@ -12,7 +12,7 @@ The Main Language for scripting in Rage Multiplayer is Node Java script. Node JS
 
 If you wish to learn more about Node Javascript, You can press up the link Down:
 
-.. _NodeJS: http://nodejs.org/
+`Node JS<https://nodejs.org/>`
 
 .. Above is the document title, and below is the subtitle.
    They are transformed from section titles after parsing.

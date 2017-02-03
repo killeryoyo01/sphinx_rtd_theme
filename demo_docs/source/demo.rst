@@ -83,7 +83,7 @@ PlayerJoin
 
 -  **kicked**
 
-- `reason` The reason why the player disconnected/left.
+- ``reason``: The reason why the player disconnected/left.
 
 ---------
 
@@ -106,7 +106,6 @@ Example:
 
 - This event is triggered when a player is chatting on  the server.
 
----------
 
 **Paramters**:
 
@@ -205,7 +204,7 @@ Event functions
 ===================
 
 events.add
-^^^^^^^^^^^^
+----------
 
 **Description**:
 
@@ -312,6 +311,222 @@ This Function writes in the Chatbox to the player
     :lines: 1-30
     
 --------    
+
+Player.giveWeapon
+-----------
+
+**Description**:
+
+This Function gives weapons to the Player.
+
+**Syntax**:
+
+``player.giveWeapon(Number/Array weaponHash, Number ammo);``
+
+-------
+
+**Example**:
+
+.. sidebar:: Example Description
+
+    This Example makes the player write /weapon, and then it gives him a Assualt Rifle
+
+.. literalinclude:: test_py_module/playergiveweapon.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+--------    
+
+Player.getClothes
+-----------
+
+**Description**:
+
+This Function gives weapons to the Player.
+
+**Syntax**:
+
+``Object player.getClothes(Number componentNumber);``
+
+**Components**:
+
+- 0 ~ Head
+- 1 ~ Beard
+- 2 ~ Hair
+- 3 ~ Torso
+- 4 ~ Legs
+- 5 ~ Hands
+- 6 ~ Foot
+- 7 ~ None?
+- 8 ~ Accessories like parachute, scuba tank
+- 9 ~ Accessories like bags, mask, scuba mask
+- 10 ~ Decals and mask
+- 11 ~ Auxiliary parts for torso
+
+**Object keys**:
+- drawable ~ ID of clothing.
+- texture ~ ID of texture.
+- palette ~ ID of palette.
+
+-------
+
+**Example**:
+
+.. sidebar:: Example Description
+
+    This Example makes the player write /getClothes [Component_ID], and then it gives him The Object Keys.
+
+.. literalinclude:: test_py_module/playergetclothes.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+--------    
+
+Player.setClothes
+-----------
+
+**Description**:
+
+This Function Sets cloth for the Player
+
+**Syntax**:
+
+``player.setClothes(Number componentNumber, Number drawable, Number texture, Number palette)``
+
+**Components**:
+
+- 0 ~ Head
+- 1 ~ Beard
+- 2 ~ Hair
+- 3 ~ Torso
+- 4 ~ Legs
+- 5 ~ Hands
+- 6 ~ Foot
+- 7 ~ None?
+- 8 ~ Accessories like parachute, scuba tank
+- 9 ~ Accessories like bags, mask, scuba mask
+- 10 ~ Decals and mask
+- 11 ~ Auxiliary parts for torso
+
+-------
+
+**Example**:
+
+.. sidebar:: Example Description
+
+    This Example sets cloth for the player when he does the Command correctly.
+
+.. literalinclude:: test_py_module/playersetclothes.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+--------
+
+Player.getProp and Player.setProp
+-----------
+
+**Description**:
+
+``getProp``:
+
+This Function gives you the prop ID of the Item.
+
+``setProp``:
+
+This function set prop for a player.
+
+**Syntax for** ``getProp``:
+
+``let prop = player.getProp(Number propID)``
+
+**Syntax for** ``setProp``:
+
+``player.setProp(Number propID, Number drawable, Number texture)``
+
+**Props**:
+
+- 1 ~ Helmets, hats, earphones, masks
+
+- 2 ~ Glasses
+
+- 3 ~ Ear accessories
+
+-------
+
+**Example for** ``getProp`` :
+
+.. sidebar:: Example Description
+
+    This example outputs a prop from prop ID.
+
+.. literalinclude:: test_py_module/playergetprop.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+    **Example for** ``setProp`` :
+
+.. sidebar:: Example Description
+
+    This example sets a Prop to the Player.
+
+.. literalinclude:: test_py_module/playersetprop.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+--------    
+
+Player.putIntoVehicle
+-----------
+
+**Description**:
+
+This Function Puts the player in a certain Vehicle.
+
+**Syntax**:
+
+``player.putIntoVehicle( vehiclename , seat number)``
+
+**Seat Numbers**:
+
+- 0 ~ driver seat
+- 1 ~ passenger seat 1
+- 2 ~ passenger seat 2
+- 3 ~ passenger seat 3
+
+-------
+
+**Example**:
+
+.. sidebar:: Example Description
+
+    This Example Creates a vehicle and puts the player inside it
+
+.. literalinclude:: test_py_module/putintovehicle.js
+    :language: javascript
+    :linenos:
+    :lines: 1-30
+    
+--------    
+
+Player.removeFromVehicle
+-----------
+
+**Description**:
+
+This Function Removes the Player from the Vehicle.
+
+**Syntax**:
+
+``player.removeFromVehicle()``
+
+-------
+
+
 
 - A bullet list
 

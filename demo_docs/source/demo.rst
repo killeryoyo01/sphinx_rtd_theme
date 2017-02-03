@@ -167,7 +167,7 @@ Example:
 This is the Serverside functions Section that you'll need to put while scripting Server-side
 
 Vector 3 Functions
-----------
+===================
 
 **Funtions**:
 
@@ -202,7 +202,7 @@ This Function Creates a Vector Object which has a float values of ``x``, ``y``, 
     
     
 Event functions
------------
+===================
 
 events.add
 ^^^^^^^^^^^^
@@ -257,7 +257,7 @@ This function calls registered event handlers.
 ---------    
 
 Player functions
------------
+===================
 
 - **Functions**:
 

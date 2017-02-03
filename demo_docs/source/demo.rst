@@ -159,8 +159,9 @@ Example:
      
 ---------
 
-Server-Side Functions.
-=============
+--------------------------------
+ Server-Side Functions
+--------------------------------
 
 This is the Serverside functions Section that you'll need to put while scripting Server-side
 

@@ -6,40 +6,13 @@ This section contains a list of map blips that you can use when you want to crea
 ---------
 
 
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image0|
 ID: 1, Name: Standard
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
+ 
 |image1|
 ID: 2, Name: BigBlip
 
-.. raw:: html
-
-   </td>
 
 .. raw:: html
 

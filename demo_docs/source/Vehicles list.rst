@@ -16,11 +16,12 @@ This section demonstrates how the 'sticky_navigation' setting behaves when the m
 Airplanes
 --------------
 
-.. figure:: vehicles/airplanes/atomicblimpf.jpg
+.. figure:: vehicles/airplanes/atomicblimpf.jpg                
 
 **Name**: blimp
 
 **Hash**: ``4143991942``
+
 
 
 .. figure:: vehicles/airplanes/besraf.jpg
@@ -29,11 +30,15 @@ Airplanes
 
 **Hash**: ``1824333165``
 
+
+
 .. figure:: vehicles/airplanes/cargoplane.jpg
 
 **Name**: cargoplane
 
 **Hash**: ``368211810``
+
+
 
 .. figure:: vehicles/airplanes/cuban800f.jpg
 
@@ -41,11 +46,15 @@ Airplanes
 
 **Hash**: ``3650256867``
 
+
+
 .. figure:: vehicles/airplanes/dodof.jpg
 
 **Name**: dodo
 
 **Hash**: ``3393804037``
+
+
 
 .. figure:: vehicles/airplanes/dusterf.jpg
 
@@ -53,11 +62,15 @@ Airplanes
 
 **Hash**: ``970356638``
 
-.. figure:: vehicles/airplanes/hydraf.jpg
+
+
+.. figure:: vehicles/airplanes/hydra.jpg
 
 **Name**: hydra
 
 **Hash**: ``970385471``
+
+
 
 .. figure:: vehicles/airplanes/jetf.jpg
 
@@ -65,11 +78,15 @@ Airplanes
 
 **Hash**: ``1058115860``
 
+
+
 .. figure:: vehicles/airplanes/luxorf.jpg
 
 **Name**: luxor
 
 **Hash**: ``621481054``
+
+
 
 .. figure:: vehicles/airplanes/mallardf.jpg
 
@@ -77,11 +94,15 @@ Airplanes
 
 **Hash**: ``unknown``
 
+
+
 .. figure:: vehicles/airplanes/mammatusf.jpg
 
 **Name**: mammatus
 
 **Hash**: ``2548391185``
+
+
 
 .. figure:: vehicles/airplanes/miljetf.jpg
 
@@ -89,11 +110,15 @@ Airplanes
 
 **Hash**: ``165154707``
 
+
+
 .. figure:: vehicles/airplanes/nimbus.jpg
 
 **Name**: nimbus
 
 **Hash**: ``2999939664``
+
+
 
 .. figure:: vehicles/airplanes/p996lazerf.jpg
 
@@ -101,11 +126,15 @@ Airplanes
 
 **Hash**: ``3013282534``
 
+
+
 .. figure:: vehicles/airplanes/shamalf.jpg
 
 **Name**: shamal
 
 **Hash**: ``3080461301``
+
+
 
 .. figure:: vehicles/airplanes/titanf.jpg
 
@@ -113,11 +142,15 @@ Airplanes
 
 **Hash**: ``1981688531``
 
+
+
 .. figure:: vehicles/airplanes/velumf.jpg
 
 **Name**: velum
 
 **Hash**: ``2621610858``
+
+
 
 .. figure:: vehicles/airplanes/vestraf.jpg
 
@@ -125,11 +158,14 @@ Airplanes
 
 **Hash**: ``1341619767``
 
+
+
 .. figure:: vehicles/airplanes/xeroblimpf.jpg
 
 **Name**: blimp2
 
 **Hash**: ``3681241380``
+
 
 ----------
 
@@ -142,11 +178,15 @@ Boats
 
 **Hash**: ``1033245328``
 
+
+
 .. figure:: vehicles/boats/jetmaxf.jpg
 
 **Name**: jetmax
 
 **Hash**: ``861409633``
+
+
 
 .. figure:: vehicles/boats/kraken.jpg
 
@@ -154,17 +194,23 @@ Boats
 
 **Hash**: ``unknown``
 
+
+
 .. figure:: vehicles/boats/marquisf.jpg
 
 **Name**: marquis
 
 **Hash**: ``3251507587``
 
+
+
 .. figure:: vehicles/boats/policepredatorf.jpg
 
 **Name**: predator
 
 **Hash**: ``3806844075``
+
+
 
 .. figure:: vehicles/boats/seashark1f.jpg
 
@@ -173,11 +219,15 @@ Boats
 **Hash**: ``3264692260``
 
 
+
+
 .. figure:: vehicles/boats/speederf.jpg
 
 **Name**: speeder
 
 **Hash**: ``231083307``
+
+
 
 .. figure:: vehicles/boats/squalof.jpg
 
@@ -185,11 +235,15 @@ Boats
 
 **Hash**: ``400514754``
 
+
+
 .. figure:: vehicles/boats/submersiblef.jpg
 
 **Name**: submersible
 
 **Hash**: ``771711535``
+
+
 
 .. figure:: vehicles/boats/suntrapf.jpg
 
@@ -197,17 +251,23 @@ Boats
 
 **Hash**: ``4012021193``
 
+
+
 .. figure:: vehicles/boats/torof.jpg
 
 **Name**: toro
 
 **Hash**: ``1070967343``
 
+
+
 .. figure:: vehicles/boats/tropicf.jpg
 
 **Name**: tropic
 
 **Hash**: ``290013743``
+
+
 
 .. figure:: vehicles/boats/tug.jpg
 
@@ -226,11 +286,15 @@ Cycles
 
 **Hash**: ``1131912276``
 
+
+
 .. figure:: vehicles/cycles/cruiserf.jpg
 
 **Name**: cruiser
 
 **Hash**: ``448402357``
+
+
 
 .. figure:: vehicles/cycles/endurexf.jpg
 
@@ -238,11 +302,15 @@ Cycles
 
 **Hash**: ``1753414259``
 
+
+
 .. figure:: vehicles/cycles/fixterf.jpg
 
 **Name**: fixter
 
 **Hash**: ``3458454463``
+
+
 
 .. figure:: vehicles/cycles/scorcherf.jpg
 
@@ -250,17 +318,143 @@ Cycles
 
 **Hash**: ``4108429845``
 
+
+
 .. figure:: vehicles/cycles/tricyclesf.jpg
 
 **Name**: tribike
 
 **Hash**: ``1127861609``
 
+
+
 .. figure:: vehicles/cycles/whippetf.jpg
 
 **Name**: tribike2
 
 **Hash**: ``3061159916``
+
+----------
+
+Helicopters
+--------------
+
+
+.. figure:: vehicles/helicopters/annihilatorf.jpg
+
+**Name**: annihilator
+
+**Hash**: ``837858166``
+
+
+
+
+.. figure:: vehicles/helicopters/buzzardf.jpg
+
+**Name**: buzzard
+
+**Hash**: ``788747387``
+
+
+.. figure:: vehicles/helicopters/buzzardattackf.jpg
+
+**Name**: buzzard2
+
+**Hash**: ``745926877``
+
+
+.. figure:: vehicles/helicopters/cargobobf.jpg
+
+**Name**: cargobob
+
+**Hash**: ``4244420235``
+
+
+.. figure:: vehicles/helicopters/maverickf.jpg
+
+**Name**: maverick
+
+**Hash**: ``2634305738``
+
+
+
+.. figure:: vehicles/helicopters/policemaverick1f.jpg
+
+**Name**: polmav
+
+**Hash**: ``353883353``
+
+
+
+.. figure:: vehicles/helicopters/savage.jpg
+
+**Name**: savage
+
+**Hash**: ``4212341271``
+
+
+
+.. figure:: vehicles/helicopters/supervolito.jpg
+
+**Name**: supervolito
+
+**Hash**: ``710198397``
+
+
+.. figure:: vehicles/helicopters/swiftf.jpg
+
+**Name**: swift
+
+**Hash**: ``3955379698``
+
+
+.. figure:: vehicles/helicopters/valkyrie.jpg
+
+**Name**: valkyrie
+
+**Hash**: ``2694714877``
+
+
+.. figure:: vehicles/helicopters/volatus.jpg
+
+**Name**: volatus
+
+**Hash**: ``2449479409``
+
+-----------
+
+Military
+--------------
+
+----------
+
+.. figure:: vehicles/military/barracksf.jpg
+
+**Name**: barracks
+
+**Hash**: ``3471458123``
+
+
+
+.. figure:: vehicles/military/barrackssemif.jpg
+
+**Name**: barracks2
+
+**Hash**: ``1074326203``
+
+
+.. figure:: vehicles/military/crusaderf.jpg
+
+**Name**: crusader
+
+**Hash**: ``321739290``
+
+
+.. figure:: vehicles/military/rhinotankf.jpg
+
+**Name**: rhino
+
+**Hash**: ``782665360``
 
 ----------
 

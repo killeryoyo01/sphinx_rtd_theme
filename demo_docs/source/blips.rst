@@ -1309,6 +1309,178 @@ ID: 310, Name: Deathmatch
 
    </td>
    
+   .. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image115|
+ID: 311, Name: ArmWrestling
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image116|
+ID: 313, Name: AmmuNationShootingRange
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image117|
+ID: 314, Name: RaceAir
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image118|
+ID: 315, Name: RaceCar
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image119|
+ID: 316, Name: RaceSea
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image120|
+ID: 318, Name: GarbageTruck
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image121|
+ID: 350, Name: SafehouseForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image122|
+ID: 351, Name: Package
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image123|
+ID: 352, Name: MartinMadrazo
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image124|
+ID: 353, Name: EnemyHelicopter
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image125|
+ID: 354, Name: Boost
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image126|
+ID: 355, Name: Devin
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image127|
+ID: 356, Name: Marina
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image128|
+ID: 357, Name: Garage
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image129|
+ID: 358, Name: GolfFlag
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
 
 .. |image0| image:: ./list_files/1_BlipSpriteStandard.png
 .. |image1| image:: ./list_files/2_BlipSpriteBigBlip.png
@@ -1426,3 +1598,18 @@ ID: 310, Name: Deathmatch
 .. |image113| image:: ./list_files/308_BlipSpriteSub.png
 .. |image114| image:: ./list_files/309_BlipSpriteRace.png
 .. |image115| image:: ./list_files/310_BlipSpriteDeathmatch.png
+.. |image116| image:: ./list_files/311_BlipSpriteArmWrestling.png
+.. |image117| image:: ./list_files/313_BlipSpriteAmmuNationShootingRange.png
+.. |image118| image:: ./list_files/314_BlipSpriteRaceAir.png
+.. |image119| image:: ./list_files/315_BlipSpriteRaceCar.png
+.. |image120| image:: ./list_files/316_BlipSpriteRaceSea.png
+.. |image121| image:: ./list_files/318_BlipSpriteGarbageTruck.png
+.. |image122| image:: ./list_files/350_BlipSpriteSafehouseForSale.png
+.. |image123| image:: ./list_files/351_BlipSpritePackage.png
+.. |image124| image:: ./list_files/352_BlipSpriteMartinMadrazo.png
+.. |image125| image:: ./list_files/353_BlipSpriteEnemyHelicopter.png
+.. |image126| image:: ./list_files/354_BlipSpriteBoost.png
+.. |image127| image:: ./list_files/355_BlipSpriteDevin.png
+.. |image128| image:: ./list_files/356_BlipSpriteMarina.png
+.. |image129| image:: ./list_files/357_BlipSpriteGarage.png
+.. |image130| image:: ./list_files/358_BlipSpriteGolfFlag.png

@@ -31,7 +31,7 @@ Contents:
 
     Vehicles list
     Peds list
-    Weapons List
+    Weapons list
     blips
 
 Maaaaath!

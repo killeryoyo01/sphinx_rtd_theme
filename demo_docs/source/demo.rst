@@ -43,7 +43,6 @@ PlayerJoin
 
 - This event is triggered when a player joins the server.
 
--------------
 
 **Paramters**
 - player player, which joined to the server.
@@ -69,7 +68,6 @@ PlayerJoin
 
 - This event is triggered when a player leaves/disconnects the server.
 
----------
 
 **Paramters**:
 
@@ -134,7 +132,6 @@ Example:
 
 - This event is triggered when a player died.
 
----------
 
 **Paramters**:
 

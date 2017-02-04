@@ -16,7 +16,7 @@ This section demonstrates how the 'sticky_navigation' setting behaves when the m
 Airplanes
 --------------
 
-.. figure:: vehicles/airplanes/atomicf.jpg
+.. figure:: vehicles/airplanes/atomicblimpf.jpg
 
 **Name**: blimp
 
@@ -28,6 +28,12 @@ Airplanes
 **Name**: besra
 
 **Hash**: ``1824333165``
+
+.. figure:: vehicles/airplanes/cargoplane.jpg
+
+**Name**: cargoplane
+
+**Hash**: ``368211810``
 
 .. figure:: vehicles/airplanes/cuban800f.jpg
 
@@ -83,7 +89,7 @@ Airplanes
 
 **Hash**: ``165154707``
 
-.. figure:: vehicles/airplanes/nimbusf.jpg
+.. figure:: vehicles/airplanes/nimbus.jpg
 
 **Name**: nimbus
 
@@ -173,7 +179,7 @@ Boats
 
 **Hash**: ``231083307``
 
-.. figure:: vehicles/boats/squalo1f.jpg
+.. figure:: vehicles/boats/squalof.jpg
 
 **Name**: squalo
 
@@ -209,6 +215,54 @@ Boats
 
 **Hash**: ``2194326579``
 
+----------
+
+Cycles
+--------------
+
+.. figure:: vehicles/cycles/bmxf.jpg
+
+**Name**: bmx
+
+**Hash**: ``1131912276``
+
+.. figure:: vehicles/cycles/cruiserf.jpg
+
+**Name**: cruiser
+
+**Hash**: ``448402357``
+
+.. figure:: vehicles/cycles/endurexf.jpg
+
+**Name**: enduro
+
+**Hash**: ``1753414259``
+
+.. figure:: vehicles/cycles/fixterf.jpg
+
+**Name**: fixter
+
+**Hash**: ``3458454463``
+
+.. figure:: vehicles/cycles/scorcherf.jpg
+
+**Name**: scorcher
+
+**Hash**: ``4108429845``
+
+.. figure:: vehicles/cycles/tricyclesf.jpg
+
+**Name**: tribike
+
+**Hash**: ``1127861609``
+
+.. figure:: vehicles/cycles/whippetf.jpg
+
+**Name**: tribike2
+
+**Hash**: ``3061159916``
+
+----------
 
 Muscle Cars
 --------------

@@ -425,7 +425,7 @@ This Function Sets cloth for the Player
     
 --------
 
-Player.getProp and Player.setProp
+Player.getProp
 -----------
 
 **Description**:
@@ -469,6 +469,29 @@ This function set prop for a player.
     
     
 --------    
+
+Player.setProp
+----------
+
+**Description**:
+
+``setProp``:
+
+This function set prop for a player.
+
+**Syntax for** ``setProp``:
+
+``player.setProp(Number propID, Number drawable, Number texture)``
+
+**Props**:
+
+- 1 ~ Helmets, hats, earphones, masks
+
+- 2 ~ Glasses
+
+- 3 ~ Ear accessories
+
+-------
     
    
     **Example for** ``setProp`` :

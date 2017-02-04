@@ -1243,7 +1243,16 @@ ID: 304, Name: GTAOMission
 
    </td>
    
-   
+   .. raw:: html
+
+   <td style="text-align: center;">
+
+|image110|
+ID: 305, Name: GTAOSurvival
+
+.. raw:: html
+
+   </td>
    
 
 .. |image0| image:: ./list_files/1_BlipSpriteStandard.png
@@ -1352,12 +1361,13 @@ ID: 304, Name: GTAOMission
 .. |image98| image:: ./list_files/237_BlipSpriteCustody.png
 .. |image99| image:: ./list_files/251_BlipSpriteArmsTraffickingAir.png
 .. |image100| image:: ./list_files/266_BlipSpriteFairground.png
-.. |image102| image:: ./list_files/267_BlipSpritePropertyManagement.png
-.. |image103| image:: ./list_files/269_BlipSpriteAltruist.png
-.. |image104| image:: ./list_files/270_BlipSpriteEnemy.png
-.. |image105| image:: ./list_files/273_BlipSpriteChop.png
-.. |image106| image:: ./list_files/274_BlipSpriteDead.png
-.. |image107| image:: ./list_files/279_BlipSpriteHooker.png
-.. |image108| image:: ./list_files/280_BlipSpriteFriend.png
-.. |image109| image:: ./list_files/303_BlipSpriteBountyHit.png
-.. |image110| image:: ./list_files/304_BlipSpriteGTAOMission.png
+.. |image101| image:: ./list_files/267_BlipSpritePropertyManagement.png
+.. |image102| image:: ./list_files/269_BlipSpriteAltruist.png
+.. |image103| image:: ./list_files/270_BlipSpriteEnemy.png
+.. |image104| image:: ./list_files/273_BlipSpriteChop.png
+.. |image105| image:: ./list_files/274_BlipSpriteDead.png
+.. |image106| image:: ./list_files/279_BlipSpriteHooker.png
+.. |image107| image:: ./list_files/280_BlipSpriteFriend.png
+.. |image108| image:: ./list_files/303_BlipSpriteBountyHit.png
+.. |image109| image:: ./list_files/304_BlipSpriteGTAOMission.png
+.. |image110| image:: ./list_files/305_BlipSpriteGTAOSurvival.png

@@ -85,7 +85,99 @@ Muscle Cars
 
 **Hash**: ``37348240``
 
+.. figure:: vehicles/muscle/lurcher.jpg
 
+**name**: lurcher
+
+**Hash**: ``2068293287``
+
+.. figure:: vehicles/muscle/moonbeam.jpg
+
+**name**: moonbeam
+
+**Hash**: ``525509695``
+
+.. figure:: vehicles/muscle/nightshade.jpg
+
+**name**: nightshade
+
+**Hash**: ``2351681756``
+
+.. figure:: vehicles/muscle/phoenixf.jpg
+
+**name**: phoenix
+
+**Hash**: ``2199527893``
+
+.. figure:: vehicles/muscle/picadorf.jpg
+
+**name**: picador
+
+**Hash**: ``1507916787``
+
+.. figure:: vehicles/muscle/ratloaderf.jpg
+
+**name**: ratloader
+
+**Hash**: ``3627815886``
+
+.. figure:: vehicles/muscle/rattruckf.jpg
+
+**name**: rattruck
+
+**Hash**: ``3627815886``
+
+.. figure:: vehicles/muscle/rattruckf.jpg
+
+**name**: rattruck
+
+.. figure:: vehicles/muscle/ruinerf.jpg
+
+**name**: ruiner
+
+**Hash**: ``4067225593``
+
+.. figure:: vehicles/muscle/sabref.jpg
+
+**name**: sabregt
+
+**Hash**: ``2609945748``
+
+.. figure:: vehicles/muscle/slamvanf.jpg
+
+**name**: slamvan
+
+**Hash**: ``729783779``
+
+.. figure:: vehicles/muscle/stallion2f.jpg
+
+**name**: stallion2
+
+**Hash**: ``62466948``
+
+.. figure:: vehicles/muscle/stallion3f.jpg
+
+**name**: stallion
+
+**Hash**: ``2795967114``
+
+.. figure:: vehicles/muscle/tampa.jpg
+
+**name**: tampa
+
+**Hash**: ``972671128``
+
+.. figure:: vehicles/muscle/vigerof.jpg
+
+**name**: vigero
+
+**Hash**: ``3469130167``
+
+.. figure:: vehicles/muscle/voodof.jpg
+
+**name**: voodo
+
+**Hash**: ``2006667053``
 
 Example Menu 2
 --------------

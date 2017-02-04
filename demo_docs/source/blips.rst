@@ -1,3 +1,12 @@
+Blips List
+===============
+
+This section contains a list of map blips that you can use when you want to create a blip while scripting.
+
+---------
+
+
+
 .. raw:: html
 
    <table>
@@ -1302,7 +1311,7 @@ ID: 309, Name: Race
 
    <td style="text-align: center;">
 
-|image114|
+|image115|
 ID: 310, Name: Deathmatch
 
 .. raw:: html
@@ -1317,7 +1326,7 @@ ID: 310, Name: Deathmatch
 
    <td style="text-align: center;">
 
-|image115|
+|image116|
 ID: 311, Name: ArmWrestling
 
 .. raw:: html
@@ -1328,7 +1337,7 @@ ID: 311, Name: ArmWrestling
 
    <td style="text-align: center;">
 
-|image116|
+|image117|
 ID: 313, Name: AmmuNationShootingRange
 
 .. raw:: html
@@ -1339,7 +1348,7 @@ ID: 313, Name: AmmuNationShootingRange
 
    <td style="text-align: center;">
 
-|image117|
+|image118|
 ID: 314, Name: RaceAir
 
 .. raw:: html
@@ -1350,7 +1359,7 @@ ID: 314, Name: RaceAir
 
    <td style="text-align: center;">
 
-|image118|
+|image119|
 ID: 315, Name: RaceCar
 
 .. raw:: html
@@ -1361,7 +1370,7 @@ ID: 315, Name: RaceCar
 
    <td style="text-align: center;">
 
-|image119|
+|image120|
 ID: 316, Name: RaceSea
 
 .. raw:: html
@@ -1372,7 +1381,7 @@ ID: 316, Name: RaceSea
 
    <td style="text-align: center;">
 
-|image120|
+|image121|
 ID: 318, Name: GarbageTruck
 
 .. raw:: html
@@ -1383,7 +1392,7 @@ ID: 318, Name: GarbageTruck
 
    <td style="text-align: center;">
 
-|image121|
+|image122|
 ID: 350, Name: SafehouseForSale
 
 .. raw:: html
@@ -1394,7 +1403,7 @@ ID: 350, Name: SafehouseForSale
 
    <td style="text-align: center;">
 
-|image122|
+|image123|
 ID: 351, Name: Package
 
 .. raw:: html
@@ -1405,7 +1414,7 @@ ID: 351, Name: Package
 
    <td style="text-align: center;">
 
-|image123|
+|image124|
 ID: 352, Name: MartinMadrazo
 
 .. raw:: html
@@ -1416,7 +1425,7 @@ ID: 352, Name: MartinMadrazo
 
    <td style="text-align: center;">
 
-|image124|
+|image125|
 ID: 353, Name: EnemyHelicopter
 
 .. raw:: html
@@ -1427,7 +1436,7 @@ ID: 353, Name: EnemyHelicopter
 
    <td style="text-align: center;">
 
-|image125|
+|image126|
 ID: 354, Name: Boost
 
 .. raw:: html
@@ -1438,7 +1447,7 @@ ID: 354, Name: Boost
 
    <td style="text-align: center;">
 
-|image126|
+|image127|
 ID: 355, Name: Devin
 
 .. raw:: html
@@ -1449,7 +1458,7 @@ ID: 355, Name: Devin
 
    <td style="text-align: center;">
 
-|image127|
+|image128|
 ID: 356, Name: Marina
 
 .. raw:: html
@@ -1460,7 +1469,7 @@ ID: 356, Name: Marina
 
    <td style="text-align: center;">
 
-|image128|
+|image129|
 ID: 357, Name: Garage
 
 .. raw:: html
@@ -1471,8 +1480,715 @@ ID: 357, Name: Garage
 
    <td style="text-align: center;">
 
-|image129|
+|image130|
 ID: 358, Name: GolfFlag
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image131|
+ID: 359, Name: Hangar
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image132|
+ID: 360, Name: Helipad
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image133|
+ID: 361, Name: JerryCan
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image134|
+ID: 362, Name: Masks
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image135|
+ID: 363, Name: HeistSetup
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image136|
+ID: 364, Name: Incapacitated
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image137|
+ID: 365, Name: PickupSpawn
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image138|
+ID: 366, Name: BoilerSuit
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image139|
+ID: 367, Name: Completed
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image140|
+ID: 368, Name: Rockets
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image141|
+ID: 369, Name: GarageForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image142|
+ID: 370, Name: HelipadForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image143|
+ID: 371, Name: MarinaForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image144|
+ID: 372, Name: HangarForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image145|
+ID: 374, Name: Business
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image146|
+ID: 375, Name: BusinessForSale
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image147|
+ID: 376, Name: RaceBike
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image148|
+ID: 377, Name: Parachute
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image149|
+ID: 378, Name: TeamDeathmatch
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image150|
+ID: 379, Name: RaceFoot
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image151|
+ID: 380, Name: VehicleDeathmatch
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image152|
+ID: 381, Name: Barry
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image153|
+ID: 382, Name: Dom
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image154|
+ID: 383, Name: MaryAnn
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image155|
+ID: 384, Name: Cletus
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image156|
+ID: 385, Name: Josh
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image157|
+ID: 386, Name: Minute
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image158|
+ID: 387, Name: Omega
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image159|
+ID: 388, Name: Tonya
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image160|
+ID: 389, Name: Paparazzo
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+   
+   .. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image161|
+ID: 390, Name: Crosshair
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image162|
+ID: 398, Name: Creator
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image163|
+ID: 399, Name: CreatorDirection
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image164|
+ID: 400, Name: Abigail
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image165|
+ID: 401, Name: Blimp
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image166|
+ID: 402, Name: Repair
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image167|
+ID: 403, Name: Testosterone
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image168|
+ID: 404, Name: Dinghy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image169|
+ID: 405, Name: Fanatic
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image170|
+ID: 407, Name: Information
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image171|
+ID: 408, Name: CaptureBriefcase
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image172|
+ID: 409, Name: LastTeamStanding
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image173|
+ID: 410, Name: Boat
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image174|
+ID: 411, Name: CaptureHouse
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image175|
+ID: 415, Name: JerryCan2
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+   
+   .. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image176|
+ID: 416, Name: RP
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image177|
+ID: 417, Name: GTAOPlayerSafehouse
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image178|
+ID: 418, Name: GTAOPlayerSafehouseDead
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image179|
+ID: 419, Name: CaptureAmericanFlag
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image180|
+ID: 420, Name: CaptureFlag
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image181|
+ID: 421, Name: Tank
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image182|
+ID: 422, Name: HelicopterAnimated
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image183|
+ID: 423, Name: Plane
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image184|
+ID: 425, Name: PlayerNoColor
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image185|
+ID: 426, Name: GunCar
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image186|
+ID: 427, Name: Speedboat
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image187|
+ID: 428, Name: Heist
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image188|
+ID: 430, Name: Stopwatch
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image189|
+ID: 431, Name: DollarSignCircled
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image190|
+ID: 432, Name: Crosshair2
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image191|
+ID: 434, Name: DollarSignSquared
 
 .. raw:: html
 
@@ -1613,3 +2329,64 @@ ID: 358, Name: GolfFlag
 .. |image128| image:: ./list_files/356_BlipSpriteMarina.png
 .. |image129| image:: ./list_files/357_BlipSpriteGarage.png
 .. |image130| image:: ./list_files/358_BlipSpriteGolfFlag.png
+.. |image131| image:: ./list_files/359_BlipSpriteHangar.png
+.. |image132| image:: ./list_files/360_BlipSpriteHelipad.png
+.. |image133| image:: ./list_files/361_BlipSpriteJerryCan.png
+.. |image134| image:: ./list_files/362_BlipSpriteMasks.png
+.. |image135| image:: ./list_files/363_BlipSpriteHeistSetup.png
+.. |image136| image:: ./list_files/364_BlipSpriteIncapacitated.png
+.. |image137| image:: ./list_files/365_BlipSpritePickupSpawn.png
+.. |image138| image:: ./list_files/366_BlipSpriteBoilerSuit.png
+.. |image139| image:: ./list_files/367_BlipSpriteCompleted.png
+.. |image140| image:: ./list_files/368_BlipSpriteRockets.png
+.. |image141| image:: ./list_files/369_BlipSpriteGarageForSale.png
+.. |image142| image:: ./list_files/370_BlipSpriteHelipadForSale.png
+.. |image143| image:: ./list_files/371_BlipSpriteMarinaForSale.png
+.. |image144| image:: ./list_files/372_BlipSpriteHangarForSale.png
+.. |image145| image:: ./list_files/374_BlipSpriteBusiness.png
+.. |image146| image:: ./list_files/375_BlipSpriteBusinessForSale.png
+.. |image147| image:: ./list_files/376_BlipSpriteRaceBike.png
+.. |image148| image:: ./list_files/377_BlipSpriteParachute.png
+.. |image149| image:: ./list_files/378_BlipSpriteTeamDeathmatch.png
+.. |image150| image:: ./list_files/379_BlipSpriteRaceFoot.png
+.. |image151| image:: ./list_files/380_BlipSpriteVehicleDeathmatch.png
+.. |image152| image:: ./list_files/381_BlipSpriteBarry.png
+.. |image153| image:: ./list_files/382_BlipSpriteDom.png
+.. |image154| image:: ./list_files/383_BlipSpriteMaryAnn.png
+.. |image155| image:: ./list_files/384_BlipSpriteCletus.png
+.. |image156| image:: ./list_files/385_BlipSpriteJosh.png
+.. |image157| image:: ./list_files/386_BlipSpriteMinute.png
+.. |image158| image:: ./list_files/387_BlipSpriteOmega.png
+.. |image159| image:: ./list_files/388_BlipSpriteTonya.png
+.. |image160| image:: ./list_files/389_BlipSpritePaparazzo.png
+.. |image161| image:: ./list_files/390_BlipSpriteCrosshair.png
+.. |image162| image:: ./list_files/398_BlipSpriteCreator.png
+.. |image163| image:: ./list_files/399_BlipSpriteCreatorDirection.png
+.. |image164| image:: ./list_files/400_BlipSpriteAbigail.png
+.. |image165| image:: ./list_files/401_BlipSpriteBlimp.png
+.. |image166| image:: ./list_files/402_BlipSpriteRepair.png
+.. |image167| image:: ./list_files/403_BlipSpriteTestosterone.png
+.. |image168| image:: ./list_files/404_BlipSpriteDinghy.png
+.. |image169| image:: ./list_files/405_BlipSpriteFanatic.png
+.. |image170| image:: ./list_files/407_BlipSpriteInformation.png
+.. |image171| image:: ./list_files/408_BlipSpriteCaptureBriefcase.png
+.. |image172| image:: ./list_files/409_BlipSpriteLastTeamStanding.png
+.. |image173| image:: ./list_files/410_BlipSpriteBoat.png
+.. |image174| image:: ./list_files/411_BlipSpriteCaptureHouse.png
+.. |image175| image:: ./list_files/415_BlipSpriteJerryCan2.png
+.. |image176| image:: ./list_files/416_BlipSpriteRP.png
+.. |image177| image:: ./list_files/417_BlipSpriteGTAOPlayerSafehouse.png
+.. |image178| image:: ./list_files/418_BlipSpriteGTAOPlayerSafehouseDead.png
+.. |image179| image:: ./list_files/419_BlipSpriteCaptureAmericanFlag.png
+.. |image180| image:: ./list_files/420_BlipSpriteCaptureFlag.png
+.. |image181| image:: ./list_files/421_BlipSpriteTank.png
+.. |image182| image:: ./list_files/422_BlipSpriteHelicopterAnimated.png
+.. |image183| image:: ./list_files/423_BlipSpritePlane.png
+.. |image184| image:: ./list_files/425_BlipSpritePlayerNoColor.png
+.. |image185| image:: ./list_files/426_BlipSpriteGunCar.png
+.. |image186| image:: ./list_files/427_BlipSpriteSpeedboat.png
+.. |image187| image:: ./list_files/428_BlipSpriteHeist.png
+.. |image188| image:: ./list_files/430_BlipSpriteStopwatch.png
+.. |image189| image:: ./list_files/431_BlipSpriteDollarSignCircled.png
+.. |image190| image:: ./list_files/432_BlipSpriteCrosshair2.png
+.. |image191| image:: ./list_files/434_BlipSpriteDollarSignSquared.png

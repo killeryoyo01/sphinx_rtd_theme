@@ -749,6 +749,501 @@ ID: 110, Name: AmmuNation
 
    </td>
    
+   .. raw:: html
+
+   <td style="text-align: center;">
+
+|image65|
+ID: 112, Name: Exile
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image66|
+ID: 119, Name: ShootingRange
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image67|
+ID: 120, Name: Solomon
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image68|
+ID: 121, Name: StripClub
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image69|
+ID: 122, Name: Tennis
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image70|
+ID: 126, Name: Triathlon
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image71|
+ID: 157, Name: RPG
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image72|
+ID: 158, Name: Shotgun
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image73|
+ID: 159, Name: SMG
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image74|
+ID: 160, Name: Sniper
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image75|
+ID: 161, Name: SonicWave
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image76|
+ID: 162, Name: PointOfInterest
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image77|
+ID: 163, Name: GTAOPassive
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image78|
+ID: 164, Name: GTAOUsingMenu
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image79|
+ID: 171, Name: Link
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image80|
+ID: 173, Name: Minigun
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image81|
+ID: 174, Name: GrenadeLauncher
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image82|
+ID: 175, Name: Armor
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image83|
+ID: 176, Name: Castle
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image84|
+ID: 184, Name: Camera
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image85|
+ID: 188, Name: Handcuffs
+
+.. raw:: html
+
+   </td>
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image86|
+ID: 197, Name: Yoga
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image87|
+ID: 198, Name: Cab
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image88|
+ID: 199, Name: Number11
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image89|
+ID: 200, Name: Number12
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image90|
+ID: 201, Name: Number13
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image91|
+ID: 202, Name: Number14
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image92|
+ID: 203, Name: Number15
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image93|
+ID: 204, Name: Number16
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image94|
+ID: 205, Name: Shrink
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image95|
+ID: 206, Name: Epsilon
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image96|
+ID: 225, Name: PersonalVehicleCar
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image97|
+ID: 226, Name: PersonalVehicleBike
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image98|
+ID: 237, Name: Custody
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image99|
+ID: 251, Name: ArmsTraffickingAir
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image100|
+ID: 266, Name: Fairground
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image101|
+ID: 267, Name: PropertyManagement
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image102|
+ID: 269, Name: Altruist
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image103|
+ID: 270, Name: Enemy
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image104|
+ID: 273, Name: Chop
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image105|
+ID: 274, Name: Dead
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image106|
+ID: 279, Name: Hooker
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image107|
+ID: 280, Name: Friend
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image108|
+ID: 303, Name: BountyHit
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image109|
+ID: 304, Name: GTAOMission
+
+.. raw:: html
+
+   </td>
+   
+   
    
 
 .. |image0| image:: ./list_files/1_BlipSpriteStandard.png
@@ -821,3 +1316,48 @@ ID: 110, Name: AmmuNation
 .. |image62| image:: ./list_files/108_BlipSpriteDollarSign.png
 .. |image63| image:: ./list_files/109_BlipSpriteGolf.png
 .. |image64| image:: ./list_files/110_BlipSpriteAmmuNation.png
+.. |image65| image:: ./list_files/112_BlipSpriteExile.png
+.. |image66| image:: ./list_files/119_BlipSpriteShootingRange.png
+.. |image67| image:: ./list_files/120_BlipSpriteSolomon.png
+.. |image68| image:: ./list_files/121_BlipSpriteStripClub.png
+.. |image69| image:: ./list_files/122_BlipSpriteTennis.png
+.. |image70| image:: ./list_files/126_BlipSpriteTriathlon.png
+.. |image71| image:: ./list_files/157_BlipSpriteRPG.png
+.. |image72| image:: ./list_files/158_BlipSpriteShotgun.png
+.. |image73| image:: ./list_files/159_BlipSpriteSMG.png
+.. |image74| image:: ./list_files/160_BlipSpriteSniper.png
+.. |image75| image:: ./list_files/161_BlipSpriteSonicWave.png
+.. |image76| image:: ./list_files/162_BlipSpritePointOfInterest.png
+.. |image77| image:: ./list_files/163_BlipSpriteGTAOPassive.png
+.. |image78| image:: ./list_files/164_BlipSpriteGTAOUsingMenu.png
+.. |image79| image:: ./list_files/171_BlipSpriteLink.png
+.. |image80| image:: ./list_files/173_BlipSpriteMinigun.png
+.. |image81| image:: ./list_files/174_BlipSpriteGrenadeLauncher.png
+.. |image82| image:: ./list_files/175_BlipSpriteArmor.png
+.. |image83| image:: ./list_files/176_BlipSpriteCastle.png
+.. |image84| image:: ./list_files/184_BlipSpriteCamera.png
+.. |image85| image:: ./list_files/188_BlipSpriteHandcuffs.png
+.. |image86| image:: ./list_files/197_BlipSpriteYoga.png
+.. |image87| image:: ./list_files/198_BlipSpriteCab.png
+.. |image88| image:: ./list_files/199_BlipSpriteNumber11.png
+.. |image89| image:: ./list_files/200_BlipSpriteNumber12.png
+.. |image90| image:: ./list_files/201_BlipSpriteNumber13.png
+.. |image91| image:: ./list_files/202_BlipSpriteNumber14.png
+.. |image92| image:: ./list_files/203_BlipSpriteNumber15.png
+.. |image93| image:: ./list_files/204_BlipSpriteNumber16.png
+.. |image94| image:: ./list_files/205_BlipSpriteShrink.png
+.. |image95| image:: ./list_files/206_BlipSpriteEpsilon.png
+.. |image96| image:: ./list_files/225_BlipSpritePersonalVehicleCar.png
+.. |image97| image:: ./list_files/226_BlipSpritePersonalVehicleBike.png
+.. |image98| image:: ./list_files/237_BlipSpriteCustody.png
+.. |image99| image:: ./list_files/251_BlipSpriteArmsTraffickingAir.png
+.. |image100| image:: ./list_files/266_BlipSpriteFairground.png
+.. |image102| image:: ./list_files/267_BlipSpritePropertyManagement.png
+.. |image103| image:: ./list_files/269_BlipSpriteAltruist.png
+.. |image104| image:: ./list_files/270_BlipSpriteEnemy.png
+.. |image105| image:: ./list_files/273_BlipSpriteChop.png
+.. |image106| image:: ./list_files/274_BlipSpriteDead.png
+.. |image107| image:: ./list_files/279_BlipSpriteHooker.png
+.. |image108| image:: ./list_files/280_BlipSpriteFriend.png
+.. |image109| image:: ./list_files/303_BlipSpriteBountyHit.png
+.. |image110| image:: ./list_files/304_BlipSpriteGTAOMission.png

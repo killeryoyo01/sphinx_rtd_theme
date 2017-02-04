@@ -1254,22 +1254,72 @@ ID: 305, Name: GTAOSurvival
 
    </td>
    
+   .. raw:: html
+
+   <td style="text-align: center;">
+
+|image111|
+ID: 306, Name: CrateDrop
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image112|
+ID: 307, Name: PlaneDrop
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image113|
+ID: 308, Name: Sub
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image114|
+ID: 309, Name: Race
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td style="text-align: center;">
+
+|image114|
+ID: 310, Name: Deathmatch
+
+.. raw:: html
+
+   </td>
+   
 
 .. |image0| image:: ./list_files/1_BlipSpriteStandard.png
 .. |image1| image:: ./list_files/2_BlipSpriteBigBlip.png
 .. |image2| image:: ./list_files/3_BlipSpritePoliceOfficer.png
-   :width: 65px
 .. |image3| image:: ./list_files/4_BlipSpritePoliceArea.png
-   :width: 65px
 .. |image4| image:: ./list_files/5_BlipSpriteSquare.png
-   :width: 65px
 .. |image5| image:: ./list_files/6_BlipSpritePlayer.png
 .. |image6| image:: ./list_files/7_BlipSpriteNorth.png
 .. |image7| image:: ./list_files/8_BlipSpriteWaypoint.png
 .. |image8| image:: ./list_files/9_BlipSpriteBigCircle.png
-   :width: 65px
 .. |image9| image:: ./list_files/10_BlipSpriteBigCircleOutline.png
-   :width: 65px
 .. |image10| image:: ./list_files/11_BlipSpriteArrowUpOutlined.png
 .. |image11| image:: ./list_files/12_BlipSpriteArrowDownOutlined.png
 .. |image12| image:: ./list_files/13_BlipSpriteArrowUp.png
@@ -1371,3 +1421,8 @@ ID: 305, Name: GTAOSurvival
 .. |image108| image:: ./list_files/303_BlipSpriteBountyHit.png
 .. |image109| image:: ./list_files/304_BlipSpriteGTAOMission.png
 .. |image110| image:: ./list_files/305_BlipSpriteGTAOSurvival.png
+.. |image111| image:: ./list_files/306_BlipSpriteCrateDrop.png
+.. |image112| image:: ./list_files/307_BlipSpritePlaneDrop.png
+.. |image113| image:: ./list_files/308_BlipSpriteSub.png
+.. |image114| image:: ./list_files/309_BlipSpriteRace.png
+.. |image115| image:: ./list_files/310_BlipSpriteDeathmatch.png

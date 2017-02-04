@@ -295,7 +295,7 @@ This Function writes in the Chatbox to the player
 
 **Syntax**:
 
-``player.outputChatBox(String reason);``
+``player.outputChatBox(String message);``
 
 -------
 
@@ -468,19 +468,9 @@ This function set prop for a player.
     :lines: 1-30
     
     
+--------    
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
     **Example for** ``setProp`` :
 
 .. sidebar:: Example Description

@@ -26,11 +26,12 @@ Contents:
     toc
 
 .. toctree::
-    :maxdepth: 2
-    :caption: This is an incredibly long caption for a long menu
+    :titlesonly:
+    :caption: assets
 
-    long
-    api
+    Vehicles list
+    Peds list
+    Weapons List
 
 Maaaaath!
 =========

@@ -2086,15 +2086,15 @@ ID: 434, Name: DollarSignSquared
 
    </tr>
 
-.. |image0| image:: ./list_files/1_BlipSpriteStandard.png
+.. |image0| image:: ./list_files/1_BlipSpriteStandard.jpg
 .. |image1| image:: ./list_files/2_BlipSpriteBigBlip.png
-.. |image2| image:: ./list_files/3_BlipSpritePoliceOfficer.png
-.. |image3| image:: ./list_files/4_BlipSpritePoliceArea.png
-.. |image4| image:: ./list_files/5_BlipSpriteSquare.png
-.. |image5| image:: ./list_files/6_BlipSpritePlayer.png
-.. |image6| image:: ./list_files/7_BlipSpriteNorth.png
-.. |image7| image:: ./list_files/8_BlipSpriteWaypoint.png
-.. |image8| image:: ./list_files/9_BlipSpriteBigCircle.png
+.. |image2| image:: ./list_files/3_BlipSpritePoliceOfficer.jpg
+.. |image3| image:: ./list_files/4_BlipSpritePoliceArea.jpg
+.. |image4| image:: ./list_files/5_BlipSpriteSquare.jpg
+.. |image5| image:: ./list_files/6_BlipSpritePlayer.jpg
+.. |image6| image:: ./list_files/7_BlipSpriteNorth.jpg
+.. |image7| image:: ./list_files/8_BlipSpriteWaypoint.jpg
+.. |image8| image:: ./list_files/9_BlipSpriteBigCircle.jpg
 .. |image9| image:: ./list_files/10_BlipSpriteBigCircleOutline.jpg
 .. |image10| image:: ./list_files/11_BlipSpriteArrowUpOutlined.png
 .. |image11| image:: ./list_files/12_BlipSpriteArrowDownOutlined.png

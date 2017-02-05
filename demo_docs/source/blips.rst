@@ -14,126 +14,41 @@ ID: 1, Name: Standard
 ID: 2, Name: BigBlip
 
 
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image2|
 ID: 3, Name: PoliceOfficer
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image3|
 ID: 4, Name: PoliceArea
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image4|
 ID: 5, Name: Square
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image5|
 ID: 6, Name: Player
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image6|
 ID: 7, Name: North
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image7|
 ID: 8, Name: Waypoint
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image8|
 ID: 9, Name: BigCircle
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image9|
 ID: 10, Name: BigCircleOutline
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image10|
 ID: 11, Name: ArrowUpOutlined
 
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
-
 |image11|
 ID: 12, Name: ArrowDownOutlined
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td style="text-align: center;">
 
 |image12|
 ID: 13, Name: ArrowUp
 
-.. raw:: html
-
-   </td>
 
 .. raw:: html
 

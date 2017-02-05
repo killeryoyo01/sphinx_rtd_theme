@@ -213,7 +213,7 @@ Boats
 
 .. figure:: vehicles/boats/seashark1f.jpg
 
-**Name**: seashark1f
+**Name**: seashark1
 
 **Hash**: ``3264692260``
 
@@ -420,6 +420,13 @@ Helicopters
 **Name**: savage
 
 **Hash**: ``4212341271``
+
+
+.. figure:: vehicles/helicopters/skyliftf.jpg
+
+**Name**: skylift
+
+**Hash**: ``1044954915``
 
 
 

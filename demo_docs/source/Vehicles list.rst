@@ -436,7 +436,7 @@ Helicopters
 
 **Hash**: ``710198397``
 
-.. figure:: vehicles/helicopters/supervolito.jpg
+.. figure:: vehicles/helicopters/supervolito2.jpg
 
 **Name**: supervolito2
 

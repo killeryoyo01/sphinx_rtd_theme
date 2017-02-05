@@ -5,6 +5,12 @@ This section contains a list of map blips that you can use when you want to crea
 
 ---------
 
+|image8|
+ID: 9, Name: BigCircle
+
+|image9|
+ID: 10, Name: BigCircleOutline
+
 
 |image0|
 ID: 1, Name: Standard

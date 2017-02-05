@@ -357,7 +357,7 @@ Emergency
 **Hash**: ``1922257928``
 
 
-.. figure:: vehicles/emergency/ambulancef.jpg
+.. figure:: vehicles/emergency/ambulance1f.jpg
 
 **Name**: ambulance
 
@@ -422,7 +422,7 @@ Emergency
 
 **Hash**: ``3089277354``
 
-.. figure:: vehicles/emergency/policecruiser1.jpg
+.. figure:: vehicles/emergency/policecruiser1f.jpg
 
 **Name**: Police
 

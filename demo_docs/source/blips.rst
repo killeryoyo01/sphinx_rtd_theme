@@ -5,12 +5,6 @@ This section contains a list of map blips that you can use when you want to crea
 
 ---------
 
-|image8|
-ID: 9, Name: BigCircle
-
-|image9|
-ID: 10, Name: BigCircleOutline
-
 
 |image0|
 ID: 1, Name: Standard
@@ -2101,7 +2095,7 @@ ID: 434, Name: DollarSignSquared
 .. |image6| image:: ./list_files/7_BlipSpriteNorth.png
 .. |image7| image:: ./list_files/8_BlipSpriteWaypoint.png
 .. |image8| image:: ./list_files/9_BlipSpriteBigCircle.png
-.. |image9| image:: ./list_files/10_BlipSpriteBigCircleOutline.png
+.. |image9| image:: ./list_files/10_BlipSpriteBigCircleOutline.jpg
 .. |image10| image:: ./list_files/11_BlipSpriteArrowUpOutlined.png
 .. |image11| image:: ./list_files/12_BlipSpriteArrowDownOutlined.png
 .. |image12| image:: ./list_files/13_BlipSpriteArrowUp.png

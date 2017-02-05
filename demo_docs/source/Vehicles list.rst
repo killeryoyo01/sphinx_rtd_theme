@@ -471,6 +471,74 @@ Helicopters
 
 -----------
 
+
+Industrial 
+--------------
+
+.. figure:: vehicles/industry/cutterf.jpg
+
+**Name**: cutter
+
+**Hash**: ``3288047904``
+
+.. figure:: vehicles/industry/dockhandlerf.jpg
+
+**Name**: dockhandler
+
+**Hash**: ``1770332643``
+
+.. figure:: vehicles/industry/dumpf.jpg
+
+**Name**: dump
+
+**Hash**: ``2164484578``
+
+.. figure:: vehicles/industry/flatbedf.jpg
+
+**Name**: flatbed
+
+**Hash**: ``1353720154``
+
+.. figure:: vehicles/industry/guardianf.jpg
+
+**Name**: guardian
+
+**Hash**: ``2186977100``
+
+.. figure:: vehicles/industry/mixer1f.jpg
+
+**Name**: mixer1
+
+**Hash**: ``3510150843``
+
+.. figure:: vehicles/industry/mixer2f.jpg
+
+**Name**: mixer2
+
+**Hash**: ``475220373``
+
+.. figure:: vehicles/industry/rubblef.jpg
+
+**Name**: rubble
+
+**Hash**: ``2589662668``
+
+.. figure:: vehicles/industry/tipper1f.jpg
+
+**Name**: tiptruck1
+
+**Hash**: ``48339065``
+
+.. figure:: vehicles/industry/tipper2f.jpg
+
+**Name**: tiptruck2
+
+**Hash**: ``3347205726``
+
+
+----------
+
+
 Military
 --------------
 
@@ -550,9 +618,9 @@ Muscle Cars
 
 .. figure:: vehicles/muscle/dukeodeathf.jpg
 
-**name**: dukes
+**name**: dukes2
 
-**Hash**: ``723973206``
+**Hash**: ``3968823444``
 
 
 .. figure:: vehicles/muscle/dukesf.jpg

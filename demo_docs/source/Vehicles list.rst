@@ -341,6 +341,128 @@ Cycles
 
 ----------
 
+Emergency
+--------------
+
+.. figure:: vehicles/emergency/sheriffcruiserf.jpg
+
+**Name**: sheriff1
+
+**Hash**: ``2611638396``
+
+.. figure:: vehicles/emergency/sheriffgrangerf.jpg
+
+**Name**: sheriff2
+
+**Hash**: ``1922257928``
+
+
+.. figure:: vehicles/emergency/ambulancef.jpg
+
+**Name**: ambulance
+
+**Hash**: ``1171614426``
+
+
+.. figure:: vehicles/emergency/parkrangerf.jpg
+
+**Name**: Park Ranger
+
+**Hash**: ``741586030``
+
+.. figure:: vehicles/emergency/fibbuffalof.jpg
+
+**Name**: FBI
+
+**Hash**: ``1127131465``
+
+.. figure:: vehicles/emergency/fibgrangerf.jpg
+
+**Name**: FBI2
+
+**Hash**: ``741586030``
+
+
+.. figure:: vehicles/emergency/firetruckf.jpg
+
+**Name**: firetruck
+
+**Hash**: ``1938952078``
+
+
+.. figure:: vehicles/emergency/policeprisonbusf.jpg
+
+**Name**: Police Prison Bus
+
+**Hash**: ``2287941233``
+
+.. figure:: vehicles/emergency/lifeguardf.jpg
+
+**Name**: lifeguard/lguard
+
+**Hash**: ``469291905``
+
+
+.. figure:: vehicles/emergency/policetransporterf.jpg
+
+**Name**: Police Transporter/Police Truck
+
+**Hash**: ``456714581``
+
+.. figure:: vehicles/emergency/policebikef.jpg
+
+**Name**: Police Bike
+
+**Hash**: ``4260343491``
+
+
+.. figure:: vehicles/emergency/policeriotf.jpg
+
+**Name**:  Riot
+
+**Hash**: ``3089277354``
+
+.. figure:: vehicles/emergency/policecruiser1.jpg
+
+**Name**: Police
+
+**Hash**: ``2046537925``
+
+
+.. figure:: vehicles/emergency/policecruiserbuffalof.jpg
+
+**Name**: Police2
+
+**Hash**: ``1912215274``
+
+
+.. figure:: vehicles/emergency/policecruiser2f.jpg
+
+**Name**: Police3
+
+**Hash**: ``2667966721``
+
+
+.. figure:: vehicles/emergency/unmarkedcruiserf.jpg
+
+**Name**: Police4
+
+**Hash**: ``2321795001``
+
+.. figure:: vehicles/emergency/images.jpg
+
+**Name**: Policeold
+
+**Hash**: ``2758042359``
+
+.. figure:: vehicles/emergency/images2.jpg
+
+**Name**: Policeold2
+
+**Hash**: ``2515846680``
+
+----------
+
 Helicopters
 --------------
 

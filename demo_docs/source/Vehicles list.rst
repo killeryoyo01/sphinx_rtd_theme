@@ -368,6 +368,30 @@ Helicopters
 
 **Hash**: ``4244420235``
 
+.. figure:: vehicles/helicopters/cargobob2.jpg
+
+**Name**: cargobob2
+
+**Hash**: ``1621617168``
+
+.. figure:: vehicles/helicopters/cargobob3.jpg
+
+**Name**: cargobob3
+
+**Hash**: ``1394036463``
+
+.. figure:: vehicles/helicopters/froggerf.jpg
+
+**Name**: frogger
+
+**Hash**: ``744705981``
+
+.. figure:: vehicles/helicopters/frogger2.jpg
+
+**Name**: frogger2
+
+**Hash**: ``1949211328``
+
 
 .. figure:: vehicles/helicopters/maverickf.jpg
 

@@ -189,9 +189,9 @@ Boats
 
 .. figure:: vehicles/boats/kraken.jpg
 
-**Name**: kraken
+**Name**: submersible2
 
-**Hash**: ``unknown``
+**Hash**: ``3228633070``
 
 
 
@@ -266,6 +266,12 @@ Boats
 
 **Hash**: ``290013743``
 
+
+.. figure:: vehicles/boats/tropic2.png
+
+**Name**: tropic2
+
+**Hash**: ``1448677353``
 
 
 .. figure:: vehicles/boats/tug.jpg
@@ -386,7 +392,7 @@ Helicopters
 
 **Hash**: ``744705981``
 
-.. figure:: vehicles/helicopters/frogger2.jpg
+.. figure:: vehicles/helicopters/fogger2.jpg
 
 **Name**: frogger2
 
@@ -423,6 +429,12 @@ Helicopters
 
 **Hash**: ``710198397``
 
+.. figure:: vehicles/helicopters/supervolito.jpg
+
+**Name**: supervolito2
+
+**Hash**: ``1596268317``
+
 
 .. figure:: vehicles/helicopters/swiftf.jpg
 
@@ -436,6 +448,12 @@ Helicopters
 **Name**: valkyrie
 
 **Hash**: ``2694714877``
+
+.. figure:: vehicles/helicopters/valkyrie2.jpg
+
+**Name**: valkyrie2
+
+**Hash**: ``1543134283``
 
 
 .. figure:: vehicles/helicopters/volatus.jpg

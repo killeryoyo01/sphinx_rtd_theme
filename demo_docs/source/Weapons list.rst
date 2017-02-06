@@ -14,95 +14,103 @@ Meele
 
 |image0|
 
-**Name**: BaseBall Bat, 
+**Name**: BaseBall Bat,
 
 **ID**: ``weapon_bat``
 
  
 |image1|
 
-**Name**: antique dagger, 
+**Name**: antique dagger
 
 **ID**: ``weapon_dagger``
 
 |image2|
-**Name**: Broken Bottle, 
+
+**Name**: Broken Bottle
 
 **ID**: ``weapon_bottle``
 
 |image3|
 
-**Name**: Fist, 
+**Name**: Fist 
 
 **ID**: ``weapon_unarmed``
 
 |image4|
 
-**Name**: Hatchet, 
+**Name**: Hatchet 
 
 **ID**: ``weapon_hatchet``
 
 |image5|
 
-**Name**: Crow Bar, 
+**Name**: Crow Bar 
 
 **ID**: ``weapon_crowbar``
 
 |image6|
 
-**Name**: Knuckles, 
+**Name**: Knuckles 
 
 **ID**: ``weapon_knuckle``
 
 |image7|
 
-**Name**: Knife, 
+**Name**: Knife 
 
 **ID**: ``weapon_knife``
 
 |image8|
 
-**Name**: Machete, 
+**Name**: Machete 
 
 **ID**: ``weapon_machete``
 
 |image9|
 
-**Name**: Hammer, 
+**Name**: Hammer 
 
 **ID**: ``weapon_hammer``
 
 |image10|
 
-**Name**: Golf Club Laps, 
+**Name**: Golf Club Laps 
 
 **ID**: ``weapon_golfclub``
 
 |image11|
 
-**Name**: Switchblade, 
+**Name**: Switchblade 
 
 **ID**: ``weapon_switchblade``
 
 |image12|
 
-**Name**: Nightstick, 
+**Name**: Nightstick 
 
 **ID**: ``weapon_nightstick``
 
-**Name**: pipewrench, 
+**Name**: pipewrench 
 
 **ID**: ``weapon_pipewrench``
 
-**Name**: Battle Axe, 
+**Name**: Battle Axe 
 
 **ID**: ``weapon_battleaxe``
 
 |image13|
 
-**Name**: Flashlight, **ID**: 
+**Name**: Flashlight 
 
-``weapon_flashlight``
+**ID**: ``weapon_flashlight``
+
+------------
+
+Pistols
+--------------
+
+
 
 
 

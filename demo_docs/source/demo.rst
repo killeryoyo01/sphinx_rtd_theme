@@ -36,7 +36,7 @@ List of Server-Side events:
 
 `test`_
 
-.. _my link: ../index.rst
+.. _my link: ../index.html
 
 Player Events
 ===================

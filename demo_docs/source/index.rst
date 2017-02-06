@@ -14,7 +14,7 @@ Rage Multiplayer API Documentation.
 Contents:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 1.5
     :caption: API Docs
 
     demo

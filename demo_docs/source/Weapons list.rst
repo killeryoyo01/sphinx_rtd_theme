@@ -9,7 +9,7 @@ This section contains a Impressive list of Weapon Names that you can use while c
 
 ----------
 
-Meele
+Melee
 --------------
 
 |image0|

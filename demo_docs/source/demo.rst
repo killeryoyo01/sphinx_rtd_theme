@@ -5,6 +5,13 @@
 Server Side scripting
 ================================
 
+Contents:
+
+.. toctree::
+    :maxdepth: 1
+    test
+    Vehicles list
+
 You can Find here Various Types of Functions/Events of Rage Multiplayer API that will let you script in your Great Server.
 Server side scripting Allows you to create your own Server without Limitation. You are the key for the Limitation. Have Fun in scripting and wish you the best of Luck :D.
 

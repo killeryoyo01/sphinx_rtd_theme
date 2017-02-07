@@ -18,6 +18,7 @@ Contents:
     :caption: API Docs
 
     demo
+    test
     list
 
 .. toctree::

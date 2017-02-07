@@ -6,5 +6,5 @@ test
    :caption: test
    :maxdepth: 3
 
-   vehicle list
-   weapons list
+   Vehicles list
+   Weapons list

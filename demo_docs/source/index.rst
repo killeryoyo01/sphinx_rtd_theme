@@ -11,6 +11,11 @@ Rage Multiplayer API Documentation.
 :Page Status: Under Construction.
 .. note:: This is still a Pre-Alpha Document.
 
+.. toctree::
+    :maxdepth: 1
+    Wow
+    test2
+
 Contents:
 
 .. toctree::
